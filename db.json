@@ -1,14 +1,27 @@
-{
-  "posts": [
-    { "id": 1, "title": "Rohit Post Title 1" },
-    { "id": 2, "title": "Rohit Post Title 1" },
-    { "id": 3, "title": "Rohit Post Title 1" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "Rohit Daftari"
+[
+  {
+    "macId": "00:1B:44:11:3A:B7",
+    "email": "rohit@gmail.com",
+    "password": "rohit123"
+  },
+  {
+    "macId": "00:1B:44:11:3A:B7",
+    "email": "suraj@gmail.com",
+    "password": "suraj123"
+  },
+  {
+    "macId": "00:1B:44:11:3A:B7",
+    "email": "srihari@gmail.com",
+    "password": "kona123"
+  },
+  {
+    "macId": "00:1B:44:11:3A:B7",
+    "email": "varun@gmail.com",
+    "password": "varun123"
+  },
+  {
+    "macId": "00:1B:44:11:3A:B7",
+    "email": "pritesh@gmail.com",
+    "password": "pritesh123"
   }
-}
+]
