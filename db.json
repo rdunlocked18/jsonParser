@@ -2,6 +2,8 @@
   {
     "macId": "00:1B:44:11:3A:B7",
     "email": "rohit@gmail.com",
-    "password": "rohit123"
+    "password": "rohit123",
+    "authId": "123456",
+    "loginTime": "12:01"
   }
 ]
